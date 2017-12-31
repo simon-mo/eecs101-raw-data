@@ -3,7 +3,9 @@ This repo provides essential data for those who wants to build a bot for Piazza.
 
 It has three kinds of data with its accompanying Jupyter Notebook detailing how the data is produced. 
 
+## 0. Real Dataset Warning
 
+Caution: this is a "real" dataset. It's not toy dataset. This dataset is very very very messy but it captures the ground truth. 
 
 ## 1. Raw Data
 
